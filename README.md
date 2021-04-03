@@ -1,2 +1,2 @@
 # food_product_management
-niat slicing UI nya aja sih , gak sampe work
+slicing design to web app
